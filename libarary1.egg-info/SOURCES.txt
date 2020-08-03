@@ -1,0 +1,10 @@
+README.md
+setup.py
+libarary1.egg-info/PKG-INFO
+libarary1.egg-info/SOURCES.txt
+libarary1.egg-info/dependency_links.txt
+libarary1.egg-info/top_level.txt
+library1/__init__.py
+library1/utils.py
+library1/utils2.py
+library1/utils3.py
